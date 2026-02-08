@@ -1,6 +1,6 @@
 # 📉📊Detección de Anomalías de Llenado de Gap Inverso por Sector
 
-##📌 Descripción del proyecto
+## 📌Descripción del proyecto
 
 Este proyecto implementa una consulta SQL para detectar anomalías en el llenado inverso de gaps de precios, segmentando el análisis por sector económico.
 
