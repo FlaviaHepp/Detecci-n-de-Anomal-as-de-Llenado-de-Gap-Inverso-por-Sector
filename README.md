@@ -1,0 +1,1 @@
+# Detecci-n-de-Anomal-as-de-Llenado-de-Gap-Inverso-por-Sector
