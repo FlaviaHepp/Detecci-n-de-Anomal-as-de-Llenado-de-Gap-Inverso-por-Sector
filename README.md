@@ -95,3 +95,73 @@ Configurar:
 
 Flavia Hepp
 Proyecto de SQL aplicado a análisis técnico avanzado y detección de anomalías financieras.
+
+***
+📈🔥 **Cuando un gap alcista NO se cierra… y el volumen explota — algo grande está pasando**
+
+Muchos traders esperan lo mismo después de earnings:
+
+👉 “El gap se va a cerrar”
+
+Pero… ¿qué pasa cuando ocurre exactamente lo contrario?
+
+---
+
+💡 Estuve analizando una anomalía muy interesante:
+
+**El “llenado de gap inverso” a nivel sectorial**
+
+---
+
+🚀 **¿Qué detecta este insight?**
+
+* 📊 Una empresa presenta un **gap alcista** tras ganancias
+* ⛔ El precio NO retrocede (no hay pullback clásico)
+* 🔥 El volumen **aumenta aún más en las siguientes 48h**
+
+---
+
+🧠 **¿Qué significa esto realmente?**
+
+No es euforia minorista.
+
+👉 Es una señal de **acumulación institucional**
+
+* Compras sostenidas
+* Validación del nuevo precio
+* Cambio de percepción estructural
+
+---
+
+📊 Y cuando esto ocurre en múltiples empresas de un mismo sector…
+
+💥 Estamos frente a un posible **cambio de régimen**
+
+---
+
+⚡ ¿Por qué es tan potente?
+
+Porque rompe una de las “reglas” más repetidas del mercado:
+
+❌ “Todos los gaps se cierran”
+✅ *No cuando hay dinero fuerte entrando*
+
+---
+
+📈 Aplicaciones prácticas:
+
+* Detectar sectores en fase de acumulación
+* Identificar líderes tempranos post-earnings
+* Evitar shorts en activos con demanda real
+* Construir posiciones alineadas con institucionales
+
+---
+
+💬 Muchas veces el edge no está en el gap…
+👉 está en lo que pasa DESPUÉS del gap.
+
+---
+
+En mercados reales, las anomalías suelen ser donde vive la oportunidad.
+
+¿Sos de los que esperan siempre el cierre del gap… o mirás el volumen para confirmar? 👇
